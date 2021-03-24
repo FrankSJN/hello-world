@@ -1,2 +1,2 @@
 # hello-world
-wow
+Hi, welcome to take part in the computer world!
